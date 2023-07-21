@@ -56,11 +56,12 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=RonPlusSign&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=RonPlusSign&theme=vue-dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RonPlusSign&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<!-- # 📊 GitHub Stats -->
+<!-- ![](https://github-readme-stats.vercel.app/api?username=RonPlusSign&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)<br/> -->
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=RonPlusSign&theme=vue-dark&hide_border=true)<br/> -->
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RonPlusSign&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
 
+## Profile views
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=RonPlusSign&label=Profile%20Views&color=12&icon=0&pretty=false" />
 </a>
