@@ -61,7 +61,7 @@
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=RonPlusSign&theme=vue-dark&hide_border=true)<br/> -->
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RonPlusSign&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
 
-## Profile views
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=RonPlusSign&label=Profile%20Views&color=12&icon=0&pretty=false" />
-</a>
+<!-- ## Profile views -->
+<!-- <a href="https://visitcount.itsvg.in"> -->
+<!--   <img src="https://visitcount.itsvg.in/api?id=RonPlusSign&label=Profile%20Views&color=12&icon=0&pretty=false" /> -->
+<!-- </a> -->
