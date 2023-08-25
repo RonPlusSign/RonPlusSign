@@ -1,8 +1,8 @@
 ### Hi there, I'm Andrea! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 
-👩‍💻 Full Stack Developer | 🚀 Crypto Enthusiast | 💻 Geek
+👩‍💻 Full Stack Developer | 🎓 Computer Engineering Student | 🚀 Crypto Enthusiast
 
-🎓 Computer Engineering Student | 🔍 Constantly exploring the realms of code and the world of cryptocurrencies
+🔍 Constantly exploring the realms of code and the world of cryptocurrencies
 
 📸 Capturing moments through photography as hobby
 <br>
