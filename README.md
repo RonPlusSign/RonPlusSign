@@ -1,15 +1,15 @@
 ### Hi there, I'm Andrea! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 
-👩‍💻 Full Stack Developer | 🎓 Computer Engineering Student | 🚀 Crypto Enthusiast
+👩‍💻 Full Stack Developer | 🎓 Computer Engineering Student @PoliTo | 🚀 AI Engineer
 
-🔍 Constantly exploring the realms of code and the world of cryptocurrencies
+🔍 Constantly exploring the realms of code and the world of Artificial Intelligence
 
 📸 Capturing moments through photography as hobby
 <br>
 
 ### Contact me
 
-[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](http://andrea.delli.it)
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ronplussign.github.io)
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrea.delli2001@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/andreadelli_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andrea-delli) 
